@@ -10,7 +10,7 @@
 
     <!--code enter view-->
     <string name="YourCode">O seu código</string>
-    <string name="SentSmsCode">Enviámoslle unha mensaxe SMS co código de activación correspondete ao seu móbil</string>
+    <string name="SentSmsCode">Enviámoslle unha mensaxe SMS co código de activación correspondente ao seu móbil</string>
     <string name="CallText">Chamarémoslle en</string>
     <string name="Calling">Chamándolle...</string>
     <string name="Code">Código</string>
